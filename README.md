@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @disguyindisguise
-- 👀 I’m interested in psycholinguistics
+- 👋 Hi, I’m @disguyindisguise.
+- 👀 I’m interested in psycholinguistics.
 - 🌱 I’m currently learning good'ole python to get started.
 - 📫 How to reach me? I'll let you know.
 
