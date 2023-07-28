@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @disguyindisguise.
-- 👀 I’m interested in psycholinguistics.
-- 🌱 I’m currently learning good'ole python to get started.
+- 👀 I’m interested in research in psycholinguistics.
+- 🌱 I’m currently taking the IBM Data Science Certification.
 - 📫 How to reach me? I'll let you know.
 
 <!---
