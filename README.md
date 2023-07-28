@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @disguyindisguise.
 - 👀 I’m interested in research in psycholinguistics.
-- 🌱 I’m currently taking the IBM Data Science Certification.
+- 🌱 I’m currently taking the IBM Data Science Certification at the time I updated this readme.
 - 📫 How to reach me? I'll let you know.
 
 <!---
